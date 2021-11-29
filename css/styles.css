@@ -1,0 +1,265 @@
+body {
+    background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+}
+
+.poramenu {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    float: left;
+    padding:  20px 20px 2px 20px;
+    margin-left: 80px;
+    margin-right: 20px;   
+}
+
+a{
+    text-decoration:none;
+    color: bisque;
+}
+
+.menubixo {
+   /* width: 100%;*/
+    height: 100%;
+    /*background-image: url(../imagens/banner.jpg);*/
+    margin-left: 0px;
+    margin-right: 0px;
+   position: absolute;
+   padding-left: 95px;
+} 
+
+
+
+.conteudo {
+    font-family: 'Modak', cursive;
+    
+}
+
+.img-fundo{
+    background-image: linear-gradient(#ffff 43%, #f0ecf320 75%, #f0ecf300 87%);
+    padding-top: 50px;
+    margin-right: -20px;
+    margin-left: -20px;
+    width: 100%;
+
+}
+#titulo{
+    text-align: center;
+    color: #350096;
+    font-size: 50px;
+
+}
+#subtitulo{
+    text-align: center;
+    color: #350096;
+    font-size: 30px;
+}
+
+.texto{
+    font-family: 'Merriweather', serif;
+    text-align: left;
+    color: bisque;
+    display: inline-flex;
+    /*width: 350px;*/
+    padding-left: 5%;
+    font-size: 25px;
+}
+#p{
+    text-align: left;
+}
+
+.imagem-fausto-home{
+padding-left: 55%;
+margin-top: -390px;
+}
+
+#mid{
+    font-family: 'Merriweather', serif;
+    text-align: left;
+    color: bisque;
+}
+
+
+.show{
+    text-align: center;
+    color: bisque;
+    font-size: 50px;
+    font-family: 'Modak', cursive;
+}
+#redirect{
+    text-align: center;
+}
+
+
+/*galeria*/
+#falso-h1{
+    font-family: 'Modak', cursive;
+    font-size: 54px;
+    text-align: center;
+    color: aliceblue;
+    }
+    p{
+        font-family: 'Modak', cursive;
+    font-size: 15px;
+     
+    }
+    #showroom1{
+        display: inline-flex;
+    }
+    #showroom2{
+        display: inline-flex;
+    }
+    #showroom3{
+        display: inline-flex;
+    }
+    #showroom4{
+        display: inline-flex;
+    }
+    #all{
+        text-align: center;
+    }
+     
+    #img1:hover{
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img1{
+        padding-right: 40px;
+    }
+    @-webkit-keyframes rumble{
+        0% {-webkit-transform: rotate(0deg);}
+        25% {-webkit-transform: translate(2px, 0px) rotate(-3deg);}
+        50% {-webkit-transform: translate(0px, -2px) rotate(0deg);}
+        75% {-webkit-transform: translate(-2px, 0px) rotate(3deg);}
+        100% {-webkit-transform: translate(0px, 2px) rotate(0deg);} 
+    }
+    #img2:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img2{
+        padding-right: 40px;
+    }
+    #img3:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img3{
+        padding-right: 40px;
+    }
+    #img4:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img4{
+        padding-right: 40px;
+    }
+    #img5:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img5{
+        padding-right: 40px;
+    }
+    #img6:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img6{
+        padding-right: 40px;
+    }
+    #img7:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img7{
+        padding-right: 40px;
+    }
+    #img8:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img8{
+        padding-right: 40px;
+    }
+    #img9:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img9{
+        padding-right: 40px;
+    }
+    #img10:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img10{
+        padding-right: 40px;
+    }
+    #img11:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img11{
+        padding-right: 40px;
+    }
+    #img12:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img12{
+        padding-right: 40px;
+    }
+    #img13:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img13{
+        padding-right: 40px;
+    }
+    #img14:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img14{
+        padding-right: 40px;
+    }
+    #img15:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img15{
+        padding-right: 40px;
+    }
+    #img16:hover{
+        padding-right: 40px;
+        -webkit-animation: rumble .0625s infinite linear;
+    }
+    #img16{
+        padding-right: 40px;
+    }
+/*Rodapé*/
+.rodape{
+    text-align: left;
+    padding-left: 0px;
+    border-left: -80px;
+    margin-left: -10px;
+}
+ 
+#traquinas{
+    text-align: left;
+    margin-left: -10px;
+    border-left: -80px;
+    padding-left: 30px;
+    border-right: 200px;
+    padding-right: 300px;
+}
+.footer{
+    display: inline-flex;
+}
+#circle{
+    padding-left: 100px;
+}
+#feito{
+    padding-left: 75px;
+}
+#caminhao{
+    padding-left: 85px;
+}
