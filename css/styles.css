@@ -1,5 +1,6 @@
 body {
     background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+    min-height: 100vh;
 }
 
 .poramenu {
@@ -262,4 +263,20 @@ margin-top: -390px;
 }
 #caminhao{
     padding-left: 85px;
+}
+
+/*CAMILE: fofocas*/
+.fofocas{
+    text-align: center;
+    color: hsl(261, 91%, 25%);
+    font-family: 'Modak', cursive;
+    font-size: 72px;
+
+}
+.faustona{
+    padding-top: 50px;
+    margin-right: 100px;
+    margin-left: 200px;
+    width: 100%;
+
 }
